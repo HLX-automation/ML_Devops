@@ -1,0 +1,41 @@
+commit 99dd5609c94319893bfa384d58b6a84314c05ed4
+Author: medamshiva20 <sivamedam22@gmail.com>
+Date:   Thu Nov 3 10:43:17 2022 +0530
+
+    file1.html added in feature1 branch
+
+diff --git a/file1.html b/file1.html
+new file mode 100644
+index 0000000..455b59a
+--- /dev/null
++++ b/file1.html
+@@ -0,0 +1,9 @@
++<!DOCTYPE html>
++<html>
++<body>
++<h1>My First Heading</h1>
++<p>My first paragraph.</p>
++<h2>My Second Heading<h2>
++<p>My Second paragraph<p>
++</body>
++</html>
+
+commit 6ab18d96170547ae5c1c99366df7bc1ae7ed8191
+Author: medamshiva20 <sivamedam22@gmail.com>
+Date:   Thu Nov 3 10:39:30 2022 +0530
+
+    file.html code added
+
+diff --git a/file.html b/file.html
+new file mode 100644
+index 0000000..7821e53
+--- /dev/null
++++ b/file.html
+@@ -0,0 +1,7 @@
++<!DOCTYPE html>
++<html>
++<body>
++<h1>My First Heading</h1>
++<p>My first paragraph.</p>
++</body>
++</html>

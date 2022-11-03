@@ -1,0 +1,18 @@
+commit b839f32b7a88f5dccecd1ffa48895ae20b826b9b
+Author: medamshiva20 <sivamedam22@gmail.com>
+Date:   Thu Nov 3 11:36:07 2022 +0530
+
+    After fixing the bug adding into release branch
+
+diff --git a/file2.html b/file2.html
+index 107b7b8..065b8b1 100644
+--- a/file2.html
++++ b/file2.html
+@@ -6,6 +6,6 @@
+ <h2>My Second Heading<h2>
+ <p>My Second paragraph<p>
+ <h3>My Third Heading<h3>
+-<p>My Third paragraph<p>
++<h4>My Fourth Heading<h4>
+ </body>
+ </html>
